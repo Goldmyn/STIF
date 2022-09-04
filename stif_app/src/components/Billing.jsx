@@ -8,7 +8,7 @@ import { apple, google } from '../assets';
 
 
 const BillingCard = () => (
-  <section className={layout.sectionReverse}>
+  <section id="product" className={layout.sectionReverse}>
   <div className='grid  sm:w-[100%] md:w-[50%] md:h-[150px] md:mt-4  p-6 rounded-[22px]  '>
   <div className={`${styles.flexCenter} flex animate-bounce   sm:w-[100%] md:w-[50%] md:h-[150px] md:mt-4  mb-3 p-6 rounded-[22px] billing-card `}>
     <div className={`${styles.flexCenter} w-[64px] h-[64px] rounded-full
