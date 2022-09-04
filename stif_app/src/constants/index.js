@@ -27,7 +27,7 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The best account types offer some tantalizing combinations of promotions and prizes",
   },
 
   {
@@ -42,7 +42,7 @@ export const features = [
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Our balance transfer system can save you a lot of money in interest charges.",
   },
   
 ];
@@ -53,15 +53,15 @@ export const feedback = [
     id: "feedback-1",
     content:
       "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
+    name: "Seamer Jensen",
     title: "Founder & Leader",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
+      "STIF makes your life easier. If you're lucky to find and use it, you're lucky.",
+    name: "Steve Stark",
     title: "Founder & Leader",
     img: people02,
   },
@@ -69,7 +69,7 @@ export const feedback = [
     id: "feedback-3",
     content:
       "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
+    name: "Kennedy Gallaer",
     title: "Founder & Leader",
     img: people03,
   },
