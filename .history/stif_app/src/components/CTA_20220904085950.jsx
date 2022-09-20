@@ -11,7 +11,7 @@ const CTA = () =>  (
       <h2 className={`${styles.heading2} text-gold-gradient`}>
         Try our services Now!
       </h2>
-      <p className={`${styles.paragraph} text-secondary max-w-[470px] mt-3`}>
+      <p className={`${styles.paragraph} max-w-[470px] mt-3`}>
         Get access to Everything you need to 
         make profits trading the financial markets 
         from anywhere around the world.

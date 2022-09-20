@@ -116,11 +116,11 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "#",
+        link: "https://www.hoobank.com/help-center/",
       },
       {
         name: "Blog",
-        link: "#",
+        link: "https://www.hoobank.com/blog/",
       },
       {
         name: "Newsletters",

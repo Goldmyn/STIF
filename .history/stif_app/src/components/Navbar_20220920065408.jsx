@@ -24,7 +24,7 @@ function Navbar() {
             className={`font-poppins 
             font-normal cursor-pointer 
             text-[16px] ${index === navLinks.length -1
-             ? 'mr-0' : 'mr-10'} text-secondary text-xl`}
+             ? 'mr-0' : 'mr-10'} text-secondary`}
           >
             <a href={`#${nav.id}`}>
               {nav.title}
@@ -53,7 +53,7 @@ function Navbar() {
                 className={`font-poppins 
                 font-normal cursor-pointer 
                 text-[16px] ${index === navLinks.length -1
-                ? 'mr-0' : 'mb-4'} text-secondary text-xl`}
+                ? 'mr-0' : 'mb-4'} text-white`}
               >
                 <a href={`#${nav.id}`}>
                   {nav.title}

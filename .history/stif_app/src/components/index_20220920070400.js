@@ -13,6 +13,7 @@ export {
   Billing,
   CardDeal,
   Business,
+  Clients,
   CTA,
   Stats,
   Footer,

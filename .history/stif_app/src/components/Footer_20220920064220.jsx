@@ -35,7 +35,7 @@ const Footer = () => (
                       <li key={Link.name}
                           className={`font-poppins
                             font-normal text-[16px] leading-[24px]
-                             text-secondary hover:text-dimWhite cursor-pointer
+                            text-dimWhite text-secondary hover: cursor-pointer
                             ${index != footerLink.links.length - 1 ? 'mb-4' : 'mb-0'}`}
                             >
                           {Link.name}
@@ -51,7 +51,7 @@ const Footer = () => (
       items-center md:flex-row flex-col pt-6 border-t-[1px]
       border-t-[#3F3E45]">
       <p className="font-poppins font-normal text-[18px]
-                      leading-[27px] text-gold-gradient"
+                      leading-[27px] text-white"
       >
         2022 STIF. All Rights Reserved.
       </p>
