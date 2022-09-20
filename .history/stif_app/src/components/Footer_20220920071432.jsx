@@ -53,7 +53,7 @@ const Footer = () => (
       <p className="font-poppins font-normal text-[18px]
                       leading-[27px] text-gold-gradient"
       >
-        2022 STIF. All Rights Reserved <span className='text-gradient'>Marius Nwokolo.</span>
+        2022 STIF. All Rights Reserved .
       </p>
 
       <div className="flex flex-row md:mt-0 mt-6">
